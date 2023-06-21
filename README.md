@@ -5,7 +5,6 @@ O objetivo é criar grupos de células vazias adjacentes e capturá-las para gan
 O jogador com a maior pontuação vence. O Catch Puzzle requer estratégia e antecipação de movimentos do oponente. 
 
 Ele foi desenvolvido em qt e c++
-
-![catch-funcionando](https://github.com/AlexiaCordeiro/catch-game/assets/84211729/f529f3c8-8c47-4692-b25a-e227b49da33b)
-
-
+<p align="center">
+<a href="https://imgur.com/ht9bvH6"><img src="https://i.imgur.com/ht9bvH6.gif" title="source: imgur.com" /></a>
+</p>
