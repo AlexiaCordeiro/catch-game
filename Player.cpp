@@ -20,6 +20,7 @@ Player::Player(Player::Type type)
             Q_UNREACHABLE();
             break;
     }
+
 }
 
 Player::~Player() {

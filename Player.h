@@ -27,7 +27,7 @@ public:
     static Player* player(Player::Type type);
 
     Player::Type type() const { return m_type; }
-    Player::Orientation orientation() { return m_orientation; }
+    Player::Orientation orientation() const { return m_orientation; }
     const QString& name() const { return m_name; }
     const QPixmap& pixmap() const { return m_pixmap; }
 

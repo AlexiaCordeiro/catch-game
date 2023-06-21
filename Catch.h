@@ -2,7 +2,6 @@
 #define CATCH_H
 
 #include <QMainWindow>
-
 #include "Cell.h"
 
 QT_BEGIN_NAMESPACE
@@ -10,6 +9,8 @@ namespace Ui {
     class Catch;
 }
 QT_END_NAMESPACE
+
+
 
 class Player;
 
@@ -32,11 +33,10 @@ private slots:
     void play(int id);
     void switchPlayer();
     void reset();
-
     void showAbout();
     void updateSelectables(bool over);
+    void busca();
     void updateStatusBar();
-
 };
 
 #endif // CATCH_H
